@@ -45,6 +45,6 @@ node main.js
 
 Now your bot should be up and running with all configurations!
 
-### If this project was useful to you, consider sponsoring me, so I can buy a delicious Starbucks 😋😋
+### If this project was useful to you, consider donate to me, so I can buy a delicious Starbucks 😋😋
 
 [![Donate](https://i.imgur.com/h6CM9tR.jpg)](https://www.paypal.com/donate/?business=DAPMXVUCLW7QE&no_recurring=0&currency_code=USD)
